@@ -1,4 +1,3 @@
-A secure communication model that sends and receives encrypted messages, verifies authenticity, confidentiality, integrity and decrypts it.
 # SecureComm
 
 A two-party, end-to-end encrypted desktop messaging application built in Python. Every message is encrypted, integrity-checked, and digitally signed before it leaves the sender's machine. A built-in six-step **Envelope Inspector** lets you peel back each cryptographic layer in real time — designed as both a functional secure messenger and an educational tool for understanding applied cryptography.
